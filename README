@@ -1,0 +1,10 @@
+Alexander Ehm
+
+Usage:
+
+"./FP ../resources"
+
+
+References:
+- https://github.com/captainhead/PerlinNoiseCpp
+  The Code used to generate the Fractal Noise based on Perlin noise.
