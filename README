@@ -1,11 +1,13 @@
 Final Project for CPE 471 - Introduction to Computer Graphics
 at Cal Poly - Fall 2016
-
-
 Alexander Ehm
 
-Usage:
+Documentation webpage:
+http://users.csc.calpoly.edu/~zwood/teaching/csc471/2016F/finalproj16F/
 
+
+
+Usage:
 "./FP ../resources"
 
 
